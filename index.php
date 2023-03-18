@@ -1,4 +1,4 @@
-<?php
+ <!-- hie --><?php
 
 include "config.php";
 
