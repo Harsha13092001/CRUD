@@ -52,7 +52,7 @@ include "config.php";
  
     
         <label for="Name"><b> UserName:</b></label><br>
-        <input type="text" name="first_name" placeholder="enter your firstname">
+        <input type="text" name="first_name" placeholder="enter  firstname">
 
        <label for="Name"></label>
         <input type="text"name="last_name" placeholder="enter lastname"><br>
